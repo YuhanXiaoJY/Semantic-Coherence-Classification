@@ -1,10 +1,9 @@
 # Semantic Coherence Classification 
 
-**Xiao Yuhan** 
+**Yuhan Xiao** 
 
 ------
 
-[TOC]
 
   ### 任务描述  
 
